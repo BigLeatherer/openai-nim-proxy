@@ -23,7 +23,7 @@ const MODEL_MAPPING = {
   "claude-3-sonnet": "openai/gpt-oss-20b",
   "gemini-pro": "qwen/qwen3-next-80b-a3b-thinking",
   "glm-5": "z-ai/glm-5.3",
-  "deepseek-v4": "deepseek-ai/deepseek-v4-flash",
+  "deepseek-v4": "deepseek-ai/deepseek-v4.1-flash",
   "kimi": "moonshotai/kimi-k3",
   "minimax": "minimaxai/minimax-m3",
   "nemotron": "nvidia/nemotron-3.5-lightning-30b-a3b"
